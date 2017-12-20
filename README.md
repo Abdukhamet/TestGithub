@@ -1,2 +1,3 @@
 # TestGithub
-Testing of a github
+  ==========
+Testing of a github. Lesson 1
